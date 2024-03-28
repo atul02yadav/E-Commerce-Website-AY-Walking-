@@ -5,5 +5,7 @@ Offering a curated collection of trendy apparel for men, women, and kids, AY Wal
 Technology Stack:
 
 Frontend: HTML, CSS, JavaScript 
+
 Backend: Only MySQL for database
+
 Payment Integration: PayPal. (To be integrated)
